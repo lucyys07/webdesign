@@ -1,4 +1,4 @@
-# webdesign
+# Webdesign
 
 Description of Project: This project is designed to assist prospective students and parents with the college application process in Alabama. It provides an insightful look into six featured colleges, helping students to develop an invaluable perspective, allowing them to evaluate each institution and find the perfect fit for their academic pursuits. The website delivers essential information on a variety of aspects, including tuition costs, prominent majors, and average standardized test scores, arming students with the knowledge they need to confidently navigate the college selection process. By profiling a selection of top colleges within the state, the guide offers a detailed view of the academic offerings, campus culture, and financial considerations of each. This platform enables families to conduct a comprehensive, comparative analysis of the colleges, making informed decisions that align with their educational goals and financial means.
 
